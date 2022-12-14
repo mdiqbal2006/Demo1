@@ -8,7 +8,7 @@ public class FirstRest {
 
 	@GetMapping(value = "/data")
 	public String getdaa() {
-		return "Hello Angular side data3";
+		return "Hello Angular side data4";
 	}	
 	
 }
